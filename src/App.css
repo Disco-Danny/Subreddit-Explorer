@@ -1,0 +1,10 @@
+.subreddit-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.subreddit-card, .post-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+}
